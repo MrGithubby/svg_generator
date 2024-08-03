@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Coverage directory used by Jest
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
