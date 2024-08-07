@@ -59,19 +59,8 @@ This Node.js application allows users to create SVG files with customizable shap
 - **Text Display**: Display up to three characters of text centered on the shape.
 - **Automated File Generation**: The application automatically generates an SVG file based on your input.
 
-## Examples
-
-Here’s an example of what the generated SVG file might look like:
-
-- **Input:**
-    - Name: `MyShape`
-    - Text: `SVG`
-    - Shape: `Circle`
-    - Shape Color: `#3498db`
-    - Text Color: `#ffffff`
-
-- **Output:**
-    - A file named `myshape.svg` will be generated in the `./examples/` directory.
+##Demo
+Checkout a video demo of this project (here)[https://drive.google.com/file/d/1VmIewBfJvJVy0xOE8MnS940OIr8c2ZSG/view]!
 
 ## License
 
